@@ -1,2 +1,3 @@
 # Social-Distancing-and-Face-Mask-detection-system
 University Final project
+The main outcomes of this project are, designing and implementing an IOT-based social distancing device that helps to maintain the proper distance in the specific areas within the hospital area. As an example, for infectious disease wards where there is a high probability of infection. Also, check the face mask availability by using a face mask detection system when outsiders entering to specific hospital wards. These processes can prevent the spread of disease through hospitals. This report provides a complete overview of how to build the above-mentioned requirements by identifying the key requirements of the system.
